@@ -1,4 +1,4 @@
 # web-python
 - FastApi 
-- MySql
+- MySQL
 - HTML - CSS
